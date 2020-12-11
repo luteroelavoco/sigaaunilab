@@ -1,10 +1,16 @@
 # Sigaa Unilab Mobile 
 >A simple project to open Unilab Sigaa. 
 
-In this project basicly i created a aplication that open the website in the mobile version. Often Student use the Google chrome to open de website, and is very difficult to decorate the url for this reason i decided to create this aplication. 
+In this project I basically created an application that opens the website in the mobile version. Often students use Google chrome to open the site, and it is very difficult to decorate the url so I decided to create this application.
 
 
 <img src="public/photo2.jpeg" alt="drawing" width="360" />
+
+## Limitations
+<ul>
+  <li> Cannot dowload files  </li>
+  <li> Cannot print documents </li>
+</ul>
 
 ## Instalation 
 
@@ -33,7 +39,6 @@ expo build:android
 ```sh
 expo build:ios
 ```
-
 
 
 ## This project screeshots

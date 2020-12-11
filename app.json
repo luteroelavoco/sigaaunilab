@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Sigaa Unilab",
-    "slug": "master_webview",
+    "slug": "Sigaa_Unilab",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,9 +20,12 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.cienstista1.sigaaunilab",
-      "versionCode": 1,
-      "permissions":["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"],
+      "package": "com.cientista1.sigaaunilab",
+      "versionCode": 2,
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -30,6 +33,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }

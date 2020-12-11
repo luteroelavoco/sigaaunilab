@@ -5,7 +5,7 @@ In this project basicly i created a aplication that open the website in the mobi
 
 
 
-![](public/photo2.jpeg)
+![](public/photo2.jpeg =100x20)
 
 ## Instalation 
 

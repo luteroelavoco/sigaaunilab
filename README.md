@@ -4,8 +4,7 @@
 In this project basicly i created a aplication that open the website in the mobile version. Often Student use the Google chrome to open de website, and is very difficult to decorate the url for this reason i decided to create this aplication. 
 
 
-
-![](public/photo2.jpeg =100x20)
+<img src="public/photo2.jpeg" alt="drawing" width="360" />
 
 ## Instalation 
 
@@ -41,15 +40,16 @@ expo build:ios
 
 * Login screen 
 
-![Login Screen ](public/photo5.jpeg)
+<img src="public/photo5.jpeg" alt="drawing" width="360" />
 
 * Home page
-![home page](public/photo1.jpeg)
+<img src="public/photo1.jpeg" alt="drawing" width="360" />
 
 * Others page
 
-![home page](public/photo3.jpeg)
-![home page](public/photo4.jpeg)
+
+<img src="public/photo3.jpeg" alt="drawing" width="360" />
+<img src="public/photo4.jpeg" alt="drawing" width="360" />
 
 ## Meta
 

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from \"./src/index\";\nexport default App;","map":{"version":3,"sources":["/home/cientista1/projects/React Native/master_webview/App.js"],"names":["App"],"mappings":"AAAA,OAAOA,GAAP;AAEA,eAAeA,GAAf","sourcesContent":["import App from './src/index';\n\nexport default App;"]},"metadata":{},"sourceType":"module"}

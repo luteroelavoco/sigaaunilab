@@ -49,15 +49,17 @@ const ContentView = () => {
         }}
         originWhitelist={["*"]}
         allowUniversalAccessFromFileURLs={true}
+        allowFileAccessFromFileURLs={true}
+        allowFileAccess={true}
         javaScriptEnabled={true}
-        mixedContentMode={'always'}
         onNavigationStateChange={(state) => {
           const back = state.canGoBack;
           const forward = state.canGoForward;
           setCanGoBack(back);
           setCanGoForward(forward);
         }}
-        onShouldStartLoadWithRequest={shouldStartLoadWithRequest}
+        // onShouldStartLoadWithRequest={shouldStartLoadWithRequest}
+        sharedCookiesEnabled={true}
       />
       <NavigationView
         onBackPress={handleBackPress}
